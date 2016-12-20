@@ -1,0 +1,10 @@
+name: lorem
+version: 0.1.0
+
+authors:
+  - Brian J. Cardiff <bcardiff@manas.com.ar>
+
+
+crystal: 0.20.1
+
+license: MIT
