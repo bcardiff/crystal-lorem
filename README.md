@@ -1,6 +1,9 @@
 # lorem
 
-TODO: Write a description here
+Sample shard for [bcardiff/ghshard](https://github.com/bcardiff/ghshard).
+Maybe some day it will be a real Lorem ipsum generator...
+
+Browse documentation hosted in ghpages: [https://bcardiff.github.io/crystal-lorem/](https://bcardiff.github.io/crystal-lorem/).
 
 ## Installation
 
