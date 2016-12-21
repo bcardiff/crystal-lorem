@@ -4,6 +4,9 @@ version: 0.2.0
 authors:
   - Brian J. Cardiff <bcardiff@manas.com.ar>
 
+development_dependencies:
+  ghshard:
+    github: bcardiff/ghshard
 
 crystal: 0.20.1
 
