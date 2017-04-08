@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - /api/0.1/Lorem.html
+  - /api/0.2/Lorem.html
 ---
