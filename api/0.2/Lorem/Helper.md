@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - /api/0.2.0/Lorem/Helper.html
+  - /api/0.2.1/Lorem/Helper.html
 ---
